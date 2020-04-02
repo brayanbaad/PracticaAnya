@@ -1,0 +1,10 @@
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\bin\Debug\PracticaAnya.exe.config
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\bin\Debug\PracticaAnya.exe
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\bin\Debug\PracticaAnya.pdb
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\bin\Debug\Entity.dll
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\bin\Debug\Entity.pdb
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\obj\Debug\PracticaAnya.csprojAssemblyReference.cache
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\obj\Debug\PracticaAnya.csproj.CoreCompileInputs.cache
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\obj\Debug\PracticaAnya.csproj.CopyComplete
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\obj\Debug\PracticaAnya.exe
+C:\Users\Acuña Donado\source\repos\PracticaAnya\PracticaAnya\obj\Debug\PracticaAnya.pdb
